@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @AdrianGameDev
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning game development
-- 💞️ I’m looking to collaborate on visual studio
-- 📫 How to reach me instagram : adrian_daniel06
+## Hi, I'm Adrian 👋
 
-<!---
-adriandaniel06/adriandaniel06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm **adriangamedev**, a computer science student and indie game developer.
+
+I work under the name **Adrian Studios**, a personal label for my projects. I build complete games on my own, mostly focusing on programming and gameplay systems.
+
+I mainly use **Unreal Engine 5** with **C++ and Blueprints**, and I do simple 3D work when needed.
+
+## Where to Play
+
+[itch.io](https://adriangamedev.itch.io)
