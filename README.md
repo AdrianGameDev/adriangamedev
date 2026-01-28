@@ -8,4 +8,4 @@ I mainly use **Unreal Engine 5** with **C++ and Blueprints**, and I do simple 3D
 
 ## Where to Play
 
-[itch.io](https://adriangamedev.itch.io)
+[adrianstudios.dev](https://adrianstudios.dev)
