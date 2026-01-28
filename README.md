@@ -1,6 +1,6 @@
 ## Hi, I'm Adrian 👋
 
-I'm **adriangamedev**, a computer science student and indie game developer.
+I'm a computer science student and indie game developer.
 
 I work under the name **Adrian Studios**, a personal label for my projects. I build complete games on my own, mostly focusing on programming and gameplay systems.
 
